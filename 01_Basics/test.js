@@ -1,0 +1,1 @@
+console.log("Hi Asis Welcome to Js in Git platform");
